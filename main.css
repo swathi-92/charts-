@@ -1,0 +1,77 @@
+.divbox{
+width: 250px;
+height:250px;
+	float: left;
+	margin-left: 10px;
+	padding: 60px;
+	margin: 10px;
+	border: 1px solid  #c3c3c3;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #c3c3c3;
+}
+.title{
+	text-align: left;
+	color:white;
+	font-size: 20px;
+}
+.title1{
+	text-align: left;
+	color:black;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+#title3{
+	text-align: left;
+	color: #c71585;
+	font-size: 20px;
+}
+.divbox2{
+	
+background-color: #4682B4;
+}
+.divbox3{
+	
+	height: 30px;
+background-color: #c3c3c3;
+}
+input[type=search] {
+	background:  url(http://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 9px center;
+	border: solid 1px transparent;
+	padding: 9px 10px 9px 32px;
+	width: 155px;
+  background-color:#4682B4;
+  border-radius:50px;
+}
+.align{
+	position: absolute;
+  top:0;
+  font-size: 17px;
+ margin-top: 10px;
+ margin-left: 10px;
+  left:0;
+  width:100%;
+  height:100%;
+}
+.remove_circle{
+	margin-top:-55px;
+	margin-right:-55px;
+}
+.glyphs
+{
+	margin-top:10px;
+	float: right;
+}
+.glyph1,.glyph2{
+padding:5px;
+}
+.text{
+
+	color:white;
+	font-size: 15px;
+
+}
+.button1{
+	width:100px;
+	margin-right: 70px;
+}
